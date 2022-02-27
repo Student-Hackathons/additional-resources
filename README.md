@@ -1,4 +1,4 @@
-## **Additional Resources**
+# **Additional Resources**
 _Some Resources Included in [Github Student Developer Pack](https://education.github.com/pack/offers) that will help you in setting up your next hackathon_
 <img align="right" height="280" src="https://github.com/github/hackathons/blob/main/.github/images/Designer%20Coder%20Innovator.png">
 
